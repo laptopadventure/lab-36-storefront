@@ -1,0 +1,12 @@
+.Header {
+  font-size: 29px;
+  vertical-align: baseline;
+  padding: 1rem;
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: bold;
+}
